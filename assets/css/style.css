@@ -105,3 +105,29 @@ input {
 	padding:5px;
     color: #ccc;
 }
+
+#image {
+    border-radius: 2px;
+    height: 150px;
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+.text-block {
+    margin: 8px 8px 0px 0;
+    float: left;
+}
+
+.desc {
+    text-align: center;
+    background-color: #4aaaa5;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 16px;
+    padding: 10px 0;
+    z-index: 1;
+    position: absolute;
+    width: 225px;
+    margin-top: 15px;
+}
